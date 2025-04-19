@@ -27,9 +27,9 @@ resources:
   repositories:
   - repository: sonic-mgmt
     type: github
-    name: PQFitz/sonic-mgmt
+    name: sonic-net/sonic-mgmt
     ref: master
-    endpoint: github
+    endpoint: sonic-net
   - repository: buildimage
     type: github
     name: sonic-net/sonic-buildimage
