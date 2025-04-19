@@ -29,7 +29,7 @@ resources:
     type: github
     name: PQFitz/sonic-mgmt
     ref: master
-    endpoint: sdytlxm
+    endpoint: github
   - repository: buildimage
     type: github
     name: sonic-net/sonic-buildimage
